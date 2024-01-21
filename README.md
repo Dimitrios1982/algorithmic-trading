@@ -12,8 +12,10 @@ Download from here: https://www.python.org/downloads/release/python-3100/
 * ```
   python.exe -m venv venv
   ```
-
-Packages needed:
+* Activate the environment. In windows this is:
+  ``` venv\Scripts\activate
+  ```
+* Install required packages:
 ```
 pip install pandas numpy matplotlib statsmodels pandas_datareader datetime yfinance sklearn PyPortfolioOpt
 ```
