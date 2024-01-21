@@ -5,9 +5,13 @@
 # Quick installation
 
 Requires Python 3.10
-* Download from here: https://www.python.org/downloads/release/python-3100/
+Download from here: https://www.python.org/downloads/release/python-3100/
 
-Open a new terminal in an IDE of your choice (e.g. Visual Studio Code)
+* Open a new terminal in an IDE of your choice (e.g. Visual Studio Code)
+* Create a virtual environment by executing the following line in the terminal window
+* ```
+  python.exe -m venv venv
+  ```
 
 Packages needed:
 ```
