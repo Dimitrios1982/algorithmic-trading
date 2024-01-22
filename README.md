@@ -18,5 +18,5 @@ Download from here: https://www.python.org/downloads/release/python-3100/
   ```
 * Install required packages:
   ```
-  pip install pandas numpy matplotlib statsmodels pandas_datareader datetime yfinance sklearn PyPortfolioOpt
+  pip install pandas numpy matplotlib statsmodels pandas_datareader datetime yfinance scikit-learn PyPortfolioOpt pandas-ta
   ```
