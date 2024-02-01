@@ -1,5 +1,5 @@
 # Algorithmic Trading
-**FreecodeCamp tutorial on algorithmic trading**
+**FreecodeCamp tutorial on algorithmic trading.**
 **Full tutorial can be found here: https://youtu.be/9Y3yaoi9rUQ?si=iLDgELOmo0uWG-wg**
 
 # Quick installation
